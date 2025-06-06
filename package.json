@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "node-red": "^3.0",
+    "node-red-dashboard": "^3.0",
+    "node-red-contrib-azure-iot-hub": "^0.6.1"
+  }
+}
